@@ -7,5 +7,5 @@
 
 ### GitHub Stats (public repositories):
 <p align="middle">
-<img alt="geomus-stats" src="https://github-readme-stats.vercel.app/api?username=geomus&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=blue-green" width="49%"></img> <img alt="geomus-top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geomus&show_icons=true&langs_count=8&hide=shell&hide_border=true&layout=compact&theme=blue-green" width="41%"></img> 
+<img alt="geomus-stats" src="https://github-readme-stats.vercel.app/api?username=geomus&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=blue-green" width="49%"></img> <img alt="geomus-top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geomus&show_icons=true&langs_count=8&hide=shell&hide_border=true&layout=compact&theme=blue-green&count_private=true" width="41%"></img> 
 </p>
